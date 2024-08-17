@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "./flask/public/",
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "module": "es6",
+        "target": "ES2023",
+        "jsx": "react",
+        "allowJs": true,
+        "moduleResolution": "node"
+    }
+}
